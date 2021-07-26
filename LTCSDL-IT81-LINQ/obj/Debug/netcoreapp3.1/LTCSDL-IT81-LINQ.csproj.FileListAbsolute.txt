@@ -1,0 +1,13 @@
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\bin\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.exe
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\bin\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.deps.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\bin\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.runtimeconfig.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\bin\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.runtimeconfig.dev.json
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\bin\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\bin\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.csprojAssemblyReference.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.AssemblyInfoInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.AssemblyInfo.cs
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.dll
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.pdb
+E:\Teaching\IT\OU\HK203\LTCSDL\Code\LTCSDL-IT81-LINQ\LTCSDL-IT81-LINQ\obj\Debug\netcoreapp3.1\LTCSDL-IT81-LINQ.genruntimeconfig.cache
